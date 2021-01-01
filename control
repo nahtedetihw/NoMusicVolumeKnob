@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.nomusicvolumeknob
+Name: NoMusicVolumeKnob
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
